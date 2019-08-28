@@ -1,0 +1,9 @@
+@import './style-params';
+
+.h1 {
+  @include font-display-1-dark-left;
+}
+
+.h2 {
+  @include font-display-4-white-center;
+}

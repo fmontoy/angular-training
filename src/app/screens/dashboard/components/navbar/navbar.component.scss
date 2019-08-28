@@ -1,0 +1,20 @@
+@import 'src/scss/style-params';
+
+.navbar-container {
+  background-color: $color-bg-10;
+  height: 60px;
+}
+
+.brand-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-list {
+  padding: 0 10px;
+  width: 100%;
+}
+
+.visit-anchor {
+  color: $color-text-02;
+}
